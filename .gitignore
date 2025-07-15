@@ -179,3 +179,16 @@ UpgradeLog*.htm
 *.bim_*.settings
 # Microsoft Fakes
 FakesAssemblies/
+**.vs/
+
+!scripts/premake/premake5.exe
+
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+**.sln
+
+**.ini
+
+*.log
