@@ -44,7 +44,7 @@ end
     architecture "x86"
   
   filter "configurations:x64"
-    architecture "x86_64"
+    architecture "x64"
 
   -- debug/release filters
   filter "configurations:Debug"
